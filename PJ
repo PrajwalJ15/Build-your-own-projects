@@ -1,0 +1,58 @@
+## Build your own;
+
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+
+It's a great way to learn.
+
+* [Command-Line Tool](#build-your-own-command-line-tool)
+* [Database](#build-your-own-database)
+* [Docker](#build-your-own-docker)
+* [Git](#build-your-own-git)
+
+## Tutorials
+
+#### Build your own `Command-Line Tool`
+
+* [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
+* [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
+* [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
+* [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
+* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
+* [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
+* [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
+* [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html)
+
+
+#### Build your own `Database`
+
+* [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
+* [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
+* [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
+* [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+* [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+* [**Go**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
+* [**Go**: _Build Your Own Redis from Scratch_](https://www.build-redis-from-scratch.dev/)
+* [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+* [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
+* [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
+* [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
+* [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+
+#### Build your own `Docker`
+
+* [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
+* [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
+* [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
+* [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
+* [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+
+#### Build your own `Git`
+
+* [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+* [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
+* [**JavaScript**: _Build GIT - Learn GIT_](https://kushagra.dev/blog/build-git-learn-git/)
+* [**Python**: _Just enough of a Git client to create a repo, commit, and push itself to GitHub_](https://benhoyt.com/writings/pygit/)
+* [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
+* [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
+* [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
